@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "desktop-control-win": {
+      "version": "1.0.1",
+      "installedAt": 1781536913484,
+      "registry": "https://clawhub.ai"
+    }
+  }
+}
